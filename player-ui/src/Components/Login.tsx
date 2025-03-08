@@ -6,9 +6,13 @@ function Login() {
     <div className='login-container bg-black text-white font-sans h-120 w-120 flex justify-center items-center'>
         <h1>Login....</h1>
         <div className="boxes">
+          <div className="icon">
+          <i class="fa-brands fa-spotify text-white"></i>
+          </div>
+          
             {/* One */}
             <div className="boxone">
-                <h4>Icon</h4>
+                
 
 
             </div>
